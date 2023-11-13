@@ -1,0 +1,23 @@
+[
+  {
+    "id": "call-of-duty-modern-warfare-2-2009",
+    "title": "Call of Duty Mw2",
+    "genre": "War",
+    "type": "FPS",
+    "cover_art": "https://upload.wikimedia.org/wikipedia/en/5/52/Call_of_Duty_Modern_Warfare_2_%282009%29_cover.png"
+  },
+   {
+     "id": "grand-theft-auto-5-2013",
+    "title": "Grand Theft Auto V",
+    "genre": "Open World",
+    "type": "Crime",
+    "cover_art": "https://media.rockstargames.com/rockstargames/img/global/news/upload/actual_1364906194.jpg"
+  },
+  {
+    "id": "call-of-duty-black-ops-2-2012",
+    "title": "Call of Duty Bo2",
+    "genre": "War",
+    "type": "FPS",
+    "cover_art": "https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png"
+  }
+]
